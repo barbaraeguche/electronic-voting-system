@@ -35,14 +35,14 @@ python3 driver.py
   <summary>showcase</summary>
 
   - **initial run**<br>
-  ![init](https://github.com/user-attachments/assets/617aa2ce-e7db-4b59-8347-b47dfad6e980)
+  ![init](https://github.com/user-attachments/assets/b68d8559-373f-4c4e-9df3-ca07c97d9975)
 
   - **option 1**<br>
-  ![option 1](https://github.com/user-attachments/assets/5812b317-12af-42d3-82ff-d98c7d6c2093)
 
+  
   - **option 2**<br>
-  ![option 2](https://github.com/user-attachments/assets/448eee7d-85a5-4e1e-933f-c2753a85b07b)
 
+  
   - **option 4**<br>
-  ![option 4](https://github.com/user-attachments/assets/f74cfc35-5921-4e23-97b6-8a05bf082c8c)
+
 </details>
