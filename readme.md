@@ -38,11 +38,11 @@ python3 driver.py
   ![init](https://github.com/user-attachments/assets/b68d8559-373f-4c4e-9df3-ca07c97d9975)
 
   - **option 1**<br>
+  ![option 1](https://github.com/user-attachments/assets/507c5bac-1271-4499-bbf3-03c55c9e43fe)
 
-  
   - **option 2**<br>
+  ![option 2](https://github.com/user-attachments/assets/53337cd7-1d63-4ca3-81c8-e522c46b4b2e)
 
-  
   - **option 4**<br>
-
+  ![option 4](https://github.com/user-attachments/assets/f4705505-81e7-4e82-ad17-4e8d388e5261)
 </details>
